@@ -1,9 +1,9 @@
-## MC-download
-# Who
+# MC-download
+## Who
 We will always provide
-# Why
+## Why
 We offer a Java version of the mobile/computer system
-# How much
+## How much
 Free
-# Method
+## Method
 (Github Page) Please visit to https://chaindisafho.github.io/mc-download/
